@@ -1,0 +1,39 @@
+
+
+.img-fluid{
+	width: 100%;
+}
+
+@media (max-width: 50em) {
+	h1{
+		right: 38%;
+		top: 90px;
+	}
+}
+@media (max-width: 40em) {
+	.navbar .navbar-brand {
+		clear: both;
+		margin-right: 8rem;
+	}
+}
+
+nav a{
+	font-weight: 900;
+}
+nav{
+	font-family: "Orbitron";
+}
+.navbar-brand {
+	float: right;
+}
+ h1{
+	text-align: center;
+	font-family: "Pacifico";
+}
+.inceput{
+	font-family: "Chewy";
+	font-size: x-large;
+}
+h3{
+	font-family: "Pacifico";
+}
